@@ -1,4 +1,4 @@
-# Bus_et_Reseau
+# Bus_et_Reseaux
 Tp réalisé par Quentin Henriet et Clément Coutouillat
 
 Ce projet consiste à faire communiquer différents capteurs et actionneur avec un STM32 de traiter les données et de les envoyer à une raspberry afin de les afficher sur une page web.
